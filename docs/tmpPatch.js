@@ -51,6 +51,6 @@ const electron = {
       return window.open(url, '_blank');
     }
   }
-}
+};
 
-window.electron = electron
+window.electron = electron;
